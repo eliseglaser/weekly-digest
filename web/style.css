@@ -1,0 +1,114 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 100;
+  letter-spacing: 2px;
+  color: #414a4c;
+  size: 45px;
+}
+
+p {
+  color: #414a4c;
+}
+
+h4 {
+  text-align: center;
+  color: #414a4c;
+}
+
+h3 {
+  text-align: center; 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: #414a4c;
+  text-align: center;
+}
+
+.active {
+  color: #88ccf1;
+}
+
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 40%;
+}
+
+thead th {
+  background: #88ccf1;
+  color: #fff;
+  font-weight: 100;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+tr {
+  background: #f4f7f8;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 5px;
+}
+
+th,td {
+  font-weight: 400;
+  padding: 20px;
+  text-align: center;
+  vertical-align: middle;
+  width: 33.3333%;
+}
+
+td {
+  color: #414a4c;
+  font-size: 16px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: stretch;
+	padding-bottom:20px;
+
+}
+
+.jj {
+  padding-top: 10px;
+  width: 150px;
+}
+
+.lex {
+  padding-top: 23px;
+  padding-right: 15px;
+  width: 150px;
+}
+
+.logos {
+  display: inline-block; 
+  margin: 0;
+
+}
+.top_text {
+   flex: 1;
+}
+
+.fda {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+}
+
+.subscription {
+  display: inline-block;
+}
+
